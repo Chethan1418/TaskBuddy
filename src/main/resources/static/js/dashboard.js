@@ -1,0 +1,1 @@
+const taskSearch=document.getElementById('taskSearch');if(taskSearch){taskSearch.addEventListener('input',()=>{const q=taskSearch.value.toLowerCase();document.querySelectorAll('.task-row').forEach(row=>row.style.display=row.innerText.toLowerCase().includes(q)?'flex':'none')})}

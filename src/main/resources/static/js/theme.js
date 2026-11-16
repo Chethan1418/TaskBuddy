@@ -1,0 +1,1 @@
+function toggleTheme(){const d=document.documentElement;const next=d.dataset.theme==='dark'?'light':'dark';d.dataset.theme=next;localStorage.setItem('tb-theme',next)}(function(){document.documentElement.dataset.theme=localStorage.getItem('tb-theme')||'light'})();

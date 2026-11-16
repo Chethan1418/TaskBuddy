@@ -1,0 +1,7 @@
+TaskBuddy redesigned starter package
+
+This archive is the previously prepared redesigned starter project, repackaged and integrity-checked.
+It is NOT yet the complete productivity-platform upgrade described in the chat.
+The advanced dashboard, calendar, persistent goals, reminders, full analytics, and synced focus history still need implementation and testing.
+
+Keep your original project and backup unchanged. Open this extracted project separately in IntelliJ.
